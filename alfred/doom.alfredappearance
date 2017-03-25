@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 7,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#a9a9a9ff",
+        "font" : "System Light",
+        "color" : "#181e26"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#98be65ff",
+        "font" : "System Light",
+        "color" : "#dfdfdfaa"
+      },
+      "backgroundSelected" : "#282c34aa",
+      "text" : {
+        "size" : 12,
+        "colorSelected" : "#51afefff",
+        "font" : "System Light",
+        "color" : "#dfdfdfff"
+      },
+      "iconPaddingHorizontal" : 27,
+      "paddingVertical" : 14,
+      "iconSize" : 24
+    },
+    "search" : {
+      "paddingVertical" : 23,
+      "background" : "#282c34ff",
+      "spacing" : 0,
+      "text" : {
+        "size" : 30,
+        "colorSelected" : "#181e26ff",
+        "font" : "System Light",
+        "color" : "#feffffff"
+      },
+      "backgroundSelected" : "#f6d4ffff"
+    },
+    "window" : {
+      "color" : "#181e26ff",
+      "paddingHorizontal" : 0,
+      "width" : 700,
+      "borderPadding" : 0,
+      "borderColor" : "#21242bff",
+      "blur" : 0,
+      "roundness" : -63,
+      "paddingVertical" : 0
+    },
+    "credit" : "karetsu",
+    "separator" : {
+      "color" : "#21242bff",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#51afefff",
+      "thickness" : 8
+    },
+    "name" : "karetsu"
+  }
+}
